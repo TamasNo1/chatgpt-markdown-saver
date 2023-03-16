@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Markdown saver",
+  "version": "0.1.0",
+  "description": "Allows saving ChatGPT conversations in Markdown format.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["autoload.js"]
+    }
+  ],
+  "web_accessible_resources": [{
+    "resources": ["listener.js"],
+    "matches": ["https://chat.openai.com/*"]
+  }],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
