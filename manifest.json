@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Markdown saver",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Allows saving ChatGPT conversations in Markdown format.",
   "permissions": [],
   "content_scripts": [

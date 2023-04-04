@@ -4,7 +4,11 @@ ChatGPT Markdown saver - A Google Chrome extension to download ChatGPT conversat
 ![Screenshot of ChatGPT Markdown saver](chatgpt-markdown-saver.png?raw=true "Screenshot of ChatGPT Markdown saver")
 
 
-## Installation
+## Now available from the Chrome Web Store
+[https://chrome.google.com/webstore/detail/chatgpt-markdown-saver/aiaammibcihjbaamnefgifpfhddneide](https://chrome.google.com/webstore/detail/chatgpt-markdown-saver/aiaammibcihjbaamnefgifpfhddneide)
+
+
+## Installation from this repo
 
 1. Download this repository as a zip file by clicking the green "Code" button and select "Download ZIP"
 2. Extract the ZIP file to a location of your liking on your machine
